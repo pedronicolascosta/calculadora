@@ -2,11 +2,11 @@
 padding: 0;}
 
 @font-face
-  {font-family:'Mungil' ;
+  {font-family:'Mungil';
   src:url(../fonts/Mungil-Regular.ttf);}
 @font-face
-  {font-family:'normt' ;
-  src:url(../fonts/NORMT___.ttf);}
+  {font-family:'normt';
+  src:url(../fonts/NORMT___.TTF);}
 
 .fundo
 {/*background-image: linear-gradient(45deg, black, #6959CD);*/
